@@ -17,7 +17,8 @@ remote_theme: jekyll-theme-so-simple
 locale: en-US
 title: "Let’s Talk Finance"
 description: "learning new things everyday"
-url: https://gopesh-sharma.github.io/financialThoughts/
+url: 'https://gopesh-sharma.github.io/'
+baseurl: 'financialThoughts/' 
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
