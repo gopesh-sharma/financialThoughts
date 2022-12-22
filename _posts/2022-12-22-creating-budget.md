@@ -2,7 +2,7 @@
 layout: post
 title: 'The Fundamentals of Personal Finance - Creating Budget'
 categories: fundamentals
-tags: ['finance, beginner', 'budget']
+tags: ['finance', 'beginner', 'budget']
 excerpt: 'The most important fundamentals of personal finance is to have a Budget which is like the first step towards your financial journey.'
 date: December 23, 2022
 author: self
