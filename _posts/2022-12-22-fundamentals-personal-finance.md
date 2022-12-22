@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Fundamentals of Personal Finance'
-categories: beginner
+categories: fundamentals
 tags: ['finance, beginner']
 excerpt: 'To get the most out of your money and ensure that you can afford everything, make smart decisions about how to use it.'
 date: December 22, 2022
