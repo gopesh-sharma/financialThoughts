@@ -16,7 +16,7 @@ You've got your budget, and you've got your savings, this is what everyone else 
 
 ### Create a budget
 
-A budget is a plan for spending and saving money, this is the must have for everyone. It’s a way to manage your money so that you spend less than you earn, which helps save for retirement, pay down debt and build up an emergency fund. If you don’t have a set budget in place yet, start by creating one now! There are numberous ways you can start budgeting and in following posts we can talk about this more.
+A [budget]({% post_url 2022-12-22-creating-budget %}) is a plan for spending and saving money, this is the must have for everyone. It’s a way to manage your money so that you spend less than you earn, which helps save for retirement, pay down debt and build up an emergency fund. If you don’t have a set budget in place yet, start by creating one now! There are numberous ways you can start budgeting and in following posts we can talk about this more.
 
 ### Set aside money for emergencies
 
