@@ -3,7 +3,7 @@ layout: post
 title: 'The Fundamentals of Personal Finance - Creating Budget'
 categories: fundamentals
 tags: ['finance, beginner', 'budget']
-excerpt: 'To get the most out of your money and ensure that you can afford everything, make smart decisions about how to use it.'
+excerpt: 'The most important fundamentals of personal finance is to have a Budget which is like the first step towards your financial journey.'
 date: December 23, 2022
 author: self
 ---
