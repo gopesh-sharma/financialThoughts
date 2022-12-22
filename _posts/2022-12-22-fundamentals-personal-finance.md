@@ -8,6 +8,10 @@ date: December 22, 2022
 author: self
 ---
 
+<figure style="width: 600px" class="align-center">
+  <img src="{{ '/images/blog/fundamentals-personal-finance.png' | absolute_url }}" alt="Fundamentals of Personal Finance">
+</figure>   
+
 You've got your budget, and you've got your savings, this is what everyone else but what else can you do? Well, how about doing some smart financial decisions that will make sure you have enough money for everything and then some? It's easy to get caught up in the day-to-day minutiae of life, but it's important to keep an eye on your finances (which is very much needed now) so that when unexpected expenses come up or opportunities arise, you're always prepared.
 
 ### Create a budget
