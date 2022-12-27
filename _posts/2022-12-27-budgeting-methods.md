@@ -7,11 +7,9 @@ excerpt: 'Everyone of is different and unique and same should happen with our bu
 date: December 27, 2022
 author: self
 image:
-  path: /images/blog/budgeting-methods.jpg
-  thumbnail: /images/blog/budgeting-methods.jpg
+  path: /images/blog/budgeting-methods.png
+  thumbnail: /images/blog/budgeting-methods.png
 ---
-
-![image-center]({{ '/images/blog/budgeting-methods.jpg' | absolute_url }}){: .align-center}
 
 You have learned about [Creating Budget]({% post_url 2022-12-22-creating-budget %}) and [Maintaining It](({% post_url 2022-12-22-managing-budget %})) and have taken the first step towards your financial journey. There are a lot of budgeting methods which you can consider when you are creating a budget or maintaining it. These different budgeting methods can be simple or complicated and thus most of them don't actually work in real life. This makes it really hard to find one which actually works for you.
 
