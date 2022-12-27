@@ -1,5 +1,5 @@
 <h4>You May Also Enjoy</h4>
-<div class="rect">
+<div class="related-posts">
 
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
@@ -25,7 +25,7 @@
     {% if sameTagCount >= minCommonTags %}
 
           <a href="{{ site.baseurl }}{{ post.url }}">
-              <div class="rel">
+              <div class="related-post">
                   <h5>{{ post.title }}</h5>
                   <img width="100%" src="/images/blog/fundamentals-personal-finance.png">
               </div>
