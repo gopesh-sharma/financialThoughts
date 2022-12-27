@@ -7,8 +7,8 @@ excerpt: 'The most important fundamentals of personal finance is to have a Budge
 date: December 23, 2022
 author: self
 image:
-  path: /images/blog/managing-budget.png.png
-  thumbnail: /images/blog/managing-budget.png.png
+  path: /images/blog/managing-budget.png
+  thumbnail: /images/blog/managing-budget.png
 ---
 
 No matter how much money you make, it's always important to budget carefully and manage your finances wisely. As we all know that most important fundamentals of personal finance is to have a Budget. But for many people, budgeting can seem like a daunting task. [Making a budget]({% post_url 2022-12-22-creating-budget %}) is one thing but sticking to it is another. Since creating the budget is like the first step towards your financial journey, managing a budget remain with you throughout your financial journey. Along with that if you manage the budget well, that will decide how well you are progressing in your financial journey. In this guide, we’ll walk through the steps of managing a budget so that you can understand how it works and see if it might work for you too!
