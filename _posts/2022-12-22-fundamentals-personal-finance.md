@@ -6,9 +6,10 @@ tags: ['finance', 'beginner']
 excerpt: 'To get the most out of your money and ensure that you can afford everything, make smart decisions about how to use it.'
 date: December 22, 2022
 author: self
+image:
+  path: /images/blog/fundamentals-personal-finance.png
+  thumbnail: /images/blog/fundamentals-personal-finance.png
 ---
-
-![image-center]({{ '/images/blog/fundamentals-personal-finance.png' | absolute_url }}){: .align-center}
 
 You've got your budget, and you've got your savings, this is what everyone else but what else can you do? Well, how about doing some smart financial decisions that will make sure you have enough money for everything and then some? It's easy to get caught up in the day-to-day minutiae of life, but it's important to keep an eye on your finances (which is very much needed now) so that when unexpected expenses come up or opportunities arise, you're always prepared.
 
