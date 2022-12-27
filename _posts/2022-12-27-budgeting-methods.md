@@ -6,6 +6,9 @@ tags: ['finance', 'beginner', 'budget', 'budgeting methods']
 excerpt: 'Everyone of is different and unique and same should happen with our budget. So that means we have to manage our money to reflect who we are and thus it will be easier to maintain and stick to it.'
 date: December 27, 2022
 author: self
+image:
+  path: /images/budgeting-methods.jpg
+  thumbnail: /images/budgeting-methods.jpg
 ---
 
 ![image-center]({{ '/images/blog/budgeting-methods.jpg' | absolute_url }}){: .align-center}
