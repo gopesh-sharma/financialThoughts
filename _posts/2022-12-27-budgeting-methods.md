@@ -7,8 +7,8 @@ excerpt: 'Everyone of is different and unique and same should happen with our bu
 date: December 27, 2022
 author: self
 image:
-  path: /images/budgeting-methods.jpg
-  thumbnail: /images/budgeting-methods.jpg
+  path: /images/blog/budgeting-methods.jpg
+  thumbnail: /images/blog/budgeting-methods.jpg
 ---
 
 ![image-center]({{ '/images/blog/budgeting-methods.jpg' | absolute_url }}){: .align-center}
