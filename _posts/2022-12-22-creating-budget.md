@@ -6,9 +6,10 @@ tags: ['finance', 'beginner', 'budget']
 excerpt: 'The most important fundamentals of personal finance is to have a Budget which is like the first step towards your financial journey.'
 date: December 23, 2022
 author: self
+image:
+  path: /images/blog/creating-budget.png
+  thumbnail: /images/blog/creating-budget.png
 ---
-
-![image-center]({{ '/images/blog/creating-budget.png' | absolute_url }}){: .align-center}
 
 The most important fundamentals of personal finance is to have a Budget. This is like the first step towards your financial journey. A budget is a way to keep track of your spending, so that you can make sure that it's not going out of control. It also helps you reach your goals and live a happier life. In this guide, we'll walk through the steps of creating a budget so that you can understand how it works and see if it might work for you too!
 
