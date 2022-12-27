@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'The Fundamentals of Personal Finance - Managing Budget'
+title: 'The Best Budgeting Methods to Consider for Financial Success'
 categories: Basics
 tags: ['finance', 'beginner', 'budget', 'budgeting methods']
-excerpt: 'The most important fundamentals of personal finance is to have a Budget, creating one is one thing but managing it is another.'
+excerpt: 'Everyone of is different and unique and same should happen with our budget. So that means we have to manage our money to reflect who we are and thus it will be easier to maintain and stick to it.'
 date: December 27, 2022
 author: self
 ---
@@ -14,7 +14,7 @@ You have learned about [Creating Budget]({% post_url 2022-12-22-creating-budget 
 
 When you are creating a Budget, it should be particularly yours. That means you cannot take someone else's method and apply it to your life which will never work. Everyone's life and situation is differnt as well as the goals which they are creating the budget for. That's why creating a budget for yourself is so very important and then there are some of teh simple budgeting methods which you can choose and tweak as per your needs.
 
-Everyone of is different and unique and same should happen with our  budget. So that means we have to manage our money to reflect who we are and thus it will be easier to maintain and stick to it.
+Everyone of is different and unique and same should happen with our budget. So that means we have to manage our money to reflect who we are and thus it will be easier to maintain and stick to it.
 
 In this article, we'll discuss some of the most popular budgeting methods and provide you with a guide to finding the right one for you.
 
