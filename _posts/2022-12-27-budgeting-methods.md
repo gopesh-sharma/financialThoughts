@@ -11,7 +11,7 @@ image:
   thumbnail: /images/blog/budgeting-methods.png
 ---
 
-You have learned about [Creating Budget]({% post_url 2022-12-22-creating-budget %}) and [Maintaining It](({% post_url 2022-12-22-managing-budget %})) and have taken the first step towards your financial journey. There are a lot of budgeting methods which you can consider when you are creating a budget or maintaining it. These different budgeting methods can be simple or complicated and thus most of them don't actually work in real life. This makes it really hard to find one which actually works for you.
+You have learned about [Creating Budget]({% post_url 2022-12-22-creating-budget %}) and [Maintaining It]({% post_url 2022-12-22-managing-budget %}) and have taken the first step towards your financial journey. There are a lot of budgeting methods which you can consider when you are creating a budget or maintaining it. These different budgeting methods can be simple or complicated and thus most of them don't actually work in real life. This makes it really hard to find one which actually works for you.
 
 When you are creating a Budget, it should be particularly yours. That means you cannot take someone else's method and apply it to your life which will never work. Everyone's life and situation is differnt as well as the goals which they are creating the budget for. That's why creating a budget for yourself is so very important and then there are some of teh simple budgeting methods which you can choose and tweak as per your needs.
 
