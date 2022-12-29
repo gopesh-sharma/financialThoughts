@@ -4,7 +4,7 @@ title: 'Strategies for Dealing With Unexpected Expenses in Your Budget'
 categories: Budgeting
 tags: ['finance', 'beginner', 'budget']
 excerpt: 'It can be tough to deal with unexpected expenses, especially if they come as a surprise. Lets go through some strategies for dealing with unexpected expenses in your budget.'
-date: December 28, 2022
+date: December 29, 2022
 author: self
 image:
   path: /images/blog/unexpected-expense.png
