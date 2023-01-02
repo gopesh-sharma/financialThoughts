@@ -8,7 +8,7 @@ date: January 2, 2023
 author: self
 image:
   path: /images/blog/emergency-fund.jpg
-  thumbnail: /images/blog/emegency-fund.jpg
+  thumbnail: /images/blog/emergency-fund.jpg
 ---
 
 A personal emergency fund is one of the most important things you should have in your financial arsenal. It is just like a savings account set aside only for emergencies. The money in this account can be used to cover unexpected expenses that come up, such as job loss, car or home repairs, medical bills.
