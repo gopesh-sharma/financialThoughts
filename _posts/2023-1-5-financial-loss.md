@@ -3,7 +3,7 @@ layout: post
 title: 'How to Cope With Financial Loss and Move Forward'
 categories: Basics
 tags: ['finance', 'beginner', 'financial loss']
-excerpt: 'Losing money is bad, but the main problem is that if you do not understand why it happened in the first place. That iss why it is very important to take the time to understand your financial loss.'
+excerpt: 'Losing money is bad, but the main problem is that if you do not understand why it happened in the first place. That is why it is very important to take the time to understand your financial loss.'
 date: January 5, 2023
 author: self
 image:
