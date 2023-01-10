@@ -11,8 +11,6 @@ image:
   thumbnail: /images/blog/include-budget.jpg
 ---
 
-Making Sense of Your Finances: What Should Be Included in Your Budget
-
 The most important fundamentals of personal finance is to have a [Budget](https://finance.gopeshsharma.dev/basics/creating-budget/). Your financial journey begins with creating a budget. So if you have started [making a Budget](https://finance.gopeshsharma.dev/basics/creating-budget/), the congrats on taking the first step towards your personal financial journey. By doing this, you will be able to improve your financial circumstances now while also securing your future financial freedom.
 
 To sum up, a budget is a financial plan that combines your income and expenses for a certain time period, most likely monthly. In order to create an effective budget, it's important to include all of your sources of income as well as all of your fixed and variable expenses. What should be included in a budget is the question that now arises.
