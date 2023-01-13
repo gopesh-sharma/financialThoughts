@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: jekyll-theme-so-simple
 locale: en-US
-title: "Let’s Talk Finance"
+title: "The Finance Notes"
 description: "learning new things everyday"
-url: https://finance.gopeshsharma.dev
-logo: # path of site logo, e.g. "/images/logo.png"
+url: https://www.thefinancenotes.com/
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
