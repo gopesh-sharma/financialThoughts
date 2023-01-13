@@ -11,7 +11,7 @@ image:
   thumbnail: /images/blog/livingexpense-budget.jpg
 ---
 
-In our previous posts, we have read about how to [create a budget]({% post_url 2022-12-22-creating-budget.md %}), how to [manage it]({% post_url 2022-12-22-managing-budget.md %}) and what should be [included in your budget]({% post_url 2023-1-9-included-in-budget.md %}). We all know that Living Expenses are necessary for a human being but you should also track it in your budget so that you are prepared to tackle them in the future. This will ensure you are good with your financial journey as well as you will not run into a financial problem in the future.
+In our previous posts, we have read about how to [create a budget](https://www.thefinancenotes.com/basics/creating-budget/), how to [manage it](https://www.thefinancenotes.com/basics/managing-budget/) and what should be [included in your budget](https://www.thefinancenotes.com/budgeting/included-in-budget/). We all know that Living Expenses are necessary for a human being but you should also track it in your budget so that you are prepared to tackle them in the future. This will ensure you are good with your financial journey as well as you will not run into a financial problem in the future.
 
 ## Living Expense Budget
 
@@ -50,7 +50,7 @@ try to get an optimal budget for only living expenses.
 
 The percentage of your income that you should spend on living expenses can vary depending on your individual and family's circumstances. Though there are some guidelines that can be helpful in determining how much to spend on living expenses.
 
-One common rule of thumb is the [50/30/20 rule]({% post_url 2022-12-27-budgeting-methods.md %}), which suggests that you should allocate 50% of your income to living expenses, 30% to discretionary expenses (such as entertainment and dining out), and 20% to savings and debt repayment. This rule is a starting point, and you should adjust the percentages based on your individual needs and goals.
+One common rule of thumb is the [50/30/20 rule](https://www.thefinancenotes.com/budgeting/budgeting-methods/), which suggests that you should allocate 50% of your income to living expenses, 30% to discretionary expenses (such as entertainment and dining out), and 20% to savings and debt repayment. This rule is a starting point, and you should adjust the percentages based on your individual needs and goals.
 
 Another guideline is the "Housing cost rule", which suggests that no more than 30% of your gross income should go towards housing costs, this includes Mortgage or rent payments, taxes, insurance, etc. However, this number might not be realistic for certain places with the high cost of living and housing prices.
 
