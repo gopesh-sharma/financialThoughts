@@ -11,7 +11,7 @@ image:
   thumbnail: /images/blog/livingexpense-budget.jpg
 ---
 
-In our previous posts, we have read about how to [create a budget]({% post_url 2022-12-22-creating-budget %}), how to [manage it]({% post_url 2022-12-22-managing-budget.md %}) and what should be [included in your budget]({% post_url 2023-1-9-included-in-budget.md %}). We all know that Living Expenses are necessary for a human being but you should also track it in your budget so that you are prepared to tackle them in the future. This will ensure you are good with your financial journey as well as you will not run into a financial problem in the future.
+In our previous posts, we have read about how to [create a budget]({% post_url 2022-12-22-creating-budget.md %}), how to [manage it]({% post_url 2022-12-22-managing-budget.md %}) and what should be [included in your budget]({% post_url 2023-1-9-included-in-budget.md %}). We all know that Living Expenses are necessary for a human being but you should also track it in your budget so that you are prepared to tackle them in the future. This will ensure you are good with your financial journey as well as you will not run into a financial problem in the future.
 
 ## Living Expense Budget
 
