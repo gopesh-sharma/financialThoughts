@@ -4,7 +4,7 @@ title: 'Manage Your Money With the 50/30/20 Rule of Budgeting'
 categories: Budgeting
 tags: ['finance', 'beginner', 'budgeting']
 excerpt: 'This year, take specific and measurable action to boost your personal finances. Financial resolutions are common among people, like saving more money or spending less but they never work.'
-date: January 9, 2023
+date: January 16, 2023
 author: self
 image:
   path: /images/blog/50-30-20-budgeting.jpg
