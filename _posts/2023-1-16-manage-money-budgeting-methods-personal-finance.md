@@ -3,7 +3,7 @@ layout: post
 title: 'Manage Your Money With the 50/30/20 Rule of Budgeting'
 categories: Budgeting
 tags: ['finance', 'beginner', 'budgeting']
-excerpt: 'This year, take specific and measurable action to boost your personal finances. Financial resolutions are common among people, like saving more money or spending less but they never work.'
+excerpt: '50/30/20 budgeting rule is one of the simplest budgeting techniques that can help anyone manage their money and achieve their financial goals. In this you should allocate 50% of your income to necessities, 30% to wants, and 20% to savings and debt repayment.'
 date: January 16, 2023
 author: self
 image:
