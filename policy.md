@@ -1,4 +1,8 @@
-## Privacy Policy for The Finance Notes
+---
+title: Privacy Policy for The Finance Notes
+layout: page
+permalink: /policy/
+---
 
 At The Finance Notes, accessible from https://www.thefinancenotes.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Finance Notes and how we use it.
 
