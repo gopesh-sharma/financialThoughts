@@ -17,7 +17,7 @@ remote_theme: jekyll-theme-so-simple
 locale: en-US
 title: "The Finance Notes"
 description: "learning new things everyday"
-url: https://www.thefinancenotes.com/
+url: https://www.thefinancenotes.com
 logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
