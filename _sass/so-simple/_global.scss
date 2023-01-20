@@ -62,8 +62,19 @@
       border-color: $nav-color;
     }
   }
-   
-  .site-nav-footer {
+
+  @include breakpoint($medium) {
+    display: block;
+  }
+
+  &.js-menu-is-open {
+    display: block;
+    -webkit-animation-name: initial;
+    animation-name: initial;
+  }
+}
+
+.site-nav-footer {
   margin-bottom: 1em;
   text-align: center;
 
@@ -75,10 +86,6 @@
     color: $nav-color;
     background-color: $nav-background-color;
     border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
-
-    @include breakpoint($medium) {
-      display: inline-block;
-    }
   }
 
   li {
@@ -98,16 +105,6 @@
     &:hover {
       border-color: $nav-color;
     }
-  }
-
-  @include breakpoint($medium) {
-    display: block;
-  }
-
-  &.js-menu-is-open {
-    display: block;
-    -webkit-animation-name: initial;
-    animation-name: initial;
   }
 }
 
