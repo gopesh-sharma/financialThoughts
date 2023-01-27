@@ -107,28 +107,28 @@ When you start with all the above steps you are on your way to being free from t
 
 ## FAQ on paying off your debt
 
-1. How long will it take to pay off my debt?
+Q. How long will it take to pay off my debt?
 
-The length of time it takes to pay off your debt will depend on several factors. The factors including the amount of debt you have, your interest rates, and the amount of money you can put towards paying off your debt each month. On average, it can take several years to pay off debt, but with a clear plan and a consistent effort, you can pay off your debt sooner.
+A. The length of time it takes to pay off your debt will depend on several factors. The factors including the amount of debt you have, your interest rates, and the amount of money you can put towards paying off your debt each month. On average, it can take several years to pay off debt, but with a clear plan and a consistent effort, you can pay off your debt sooner.
 
-2. Should I close my credit card accounts once they are paid off?
+Q. Should I close my credit card accounts once they are paid off?
 
-Closing your credit card accounts once they are paid off can have an impact on your credit score. Instead, you can consider keeping the account open and using it sparingly. When you have a long credit history, it can help to improve your credit score.
+A. Closing your credit card accounts once they are paid off can have an impact on your credit score. Instead, you can consider keeping the account open and using it sparingly. When you have a long credit history, it can help to improve your credit score.
 
-3. How can I stay motivated to pay off my debt?
+Q. How can I stay motivated to pay off my debt?
 
-Paying off debt can be a long and challenging process, and it's important to find ways to stay motivated. Some ways to stay motivated is to set up a reward system and celebrating your progress along the way.
+A. Paying off debt can be a long and challenging process, and it's important to find ways to stay motivated. Some ways to stay motivated is to set up a reward system and celebrating your progress along the way.
 
-4. Should I prioritize paying off my smallest debt or my highest-interest debt first?
+Q. Should I prioritize paying off my smallest debt or my highest-interest debt first?
 
-Both the Snowball Method and the Avalanche Method have their pros and cons. The Snowball Method can help you to see progress quickly, which can keep you motivated. The Avalanche Method can help you to save money on interest charges in the long run. The decision of which method to use will depend on your personal preferences and financial situation.
+A. Both the Snowball Method and the Avalanche Method have their pros and cons. The Snowball Method can help you to see progress quickly, which can keep you motivated. The Avalanche Method can help you to save money on interest charges in the long run. The decision of which method to use will depend on your personal preferences and financial situation.
 
-5. Will paying off my debt affect my credit score?
+Q. Will paying off my debt affect my credit score?
 
-Paying off your debt can have a positive impact on your credit score, as it shows that you are taking steps to improve your financial situation. However, closing credit card accounts or having a high amount of outstanding debt can negatively affect your credit score.
+A. Paying off your debt can have a positive impact on your credit score, as it shows that you are taking steps to improve your financial situation. However, closing credit card accounts or having a high amount of outstanding debt can negatively affect your credit score.
 
-6. Is it possible to pay off debt without a budget?
+Q. Is it possible to pay off debt without a budget?
 
-While it is possible to pay off debt without a budget, it can be more challenging. A budget can help you to identify areas where you can cut back on expenses and redirect that money towards paying off your debt. It also helps to keep track of your spending, and to ensure that you are making consistent progress towards paying off your debt.
+A. While it is possible to pay off debt without a budget, it can be more challenging. A budget can help you to identify areas where you can cut back on expenses and redirect that money towards paying off your debt. It also helps to keep track of your spending, and to ensure that you are making consistent progress towards paying off your debt.
 
 In conclusion, paying off debt can be a long and challenging process, but it's a worthwhile goal to work towards. By creating a budget, choosing a payoff strategy, automating your payments, and staying motivated, you can make progress towards a debt-free future. 
