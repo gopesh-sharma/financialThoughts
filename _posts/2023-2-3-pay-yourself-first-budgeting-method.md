@@ -7,8 +7,8 @@ excerpt: 'The Pay Yourself First is the budgeting strategy where people will pri
 date: February 3, 2023
 author: self
 image:
-  path: images/blog/pay-yourself-first.jpg
-  thumbnail: images/blog/pay-yourself-first.jpg
+  path: /images/blog/pay-yourself-first.jpg
+  thumbnail: /images/blog/pay-yourself-first.jpg
 ---
 
 The "Pay Yourself First" is the budgeting strategy where people will prioritize saving by setting aside some portion of their income into savings or investments. This is done before paying any bill or making any other purchases. The idea of "Pay Yourself First" is simple that people should cultivate saving a priority. With this method you will save at the start of the month and then teh remaining amount can be used for expenses or needs. 
