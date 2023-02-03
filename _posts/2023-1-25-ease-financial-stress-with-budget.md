@@ -7,8 +7,8 @@ excerpt: 'A budget can be an effective tool to reduce your financial stress. Usi
 date: January 25, 2023
 author: self
 image:
-  path: images/blog/financial-stress-budget.jpg
-  thumbnail: images/blog/financial-stress-budget.jpg
+  path: /images/blog/financial-stress-budget.jpg
+  thumbnail: /images/blog/financial-stress-budget.jpg
 ---
 
 You might have heard the wise financial advice to make a budget. Having a budget is one of the most important fundamentals of personal finance. A budget allows you to keep track of your spending and ensure that it is not out of control. It also helps you achieve your goals and live a happier life. Making and sticking to a budget isn't just for those who have fallen on hard times. Creating a budget for anyone who wants to have stress free financial life.
