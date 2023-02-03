@@ -7,8 +7,8 @@ excerpt: 'Its important to pay off your debt as soon as possible to progress in 
 date: January 27, 2023
 author: self
 image:
-  path: images/blog/pay-debt.jpg
-  thumbnail: images/blog/pay-debt.jpg
+  path: /images/blog/pay-debt.jpg
+  thumbnail: /images/blog/pay-debt.jpg
 ---
 
 Debt is one of the silent killers of an individual's hopes for becoming financially free. Debt is a heavy burden to carry and thus we feel overwhelmed by the mere thought of paying it off. It's important to pay off your debt as soon as possible to progress in your finance journey. If you have a clear plan, a budget and consistent effort you can pay off your debt. Once you pay off the debt, you can take control of your finances.
