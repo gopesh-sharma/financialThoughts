@@ -11,27 +11,27 @@ image:
   thumbnail: /images/blog/pay-yourself-first.jpg
 ---
 
-The "Pay Yourself First" is the budgeting strategy where people will prioritize saving by setting aside some portion of their income into savings or investments. This is done before paying any bill or making any other purchases. The idea of "Pay Yourself First" is simple that people should cultivate saving a priority. With this method you will save at the start of the month and then teh remaining amount can be used for expenses or needs. 
+The "Pay Yourself First" is the budgeting strategy where people will prioritize saving by setting aside some portion of their income into savings or investments. This is done before paying any bill or making any other purchases. The idea of "Pay Yourself First" is simple people should cultivate saving as a priority. With this method, you will save at the start of the month and then the remaining amount can be used for expenses or needs. 
 
-When you save certain percentage of money at the start of the month and thus you have limited amount of money for expense you are most likely don't overspend. The impulse buying will be reduced too. This also helps you in reaching your financial goals much faster or build up that emegency fund for any emergencies. 
+When you save a certain percentage of money at the start of the month and thus you have a limited amount of money for an expense you most likely don't overspend. Impulse buying will be reduced too. This also helps you in reaching your financial goals much faster or build up that emergency fund for any emergencies. 
 
 ## How to Start Using the 'Pay Yourself First' Budgeting Method
 
-So now you have decided that you will be starting with 'Pay Yourself First', but how is the question. These are some of teh tips which you can consider on how to start the 'Pay Yourself First' budgeting method which works for you.
+So now you have decided that you will be starting with 'Pay Yourself First', but how do you start? These are some of the tips which you can consider on how to start the 'Pay Yourself First' budgeting method which works for you.
 
-1.  Determine your savings goal - To start using the pay yourself first budget, you need to decide on how much you want to save. This can de depenedent on your future goals, your expenses and your income. Say for example if your monthly income is $5K, you can set a goal of $1.5K i.e. 30% of your income every month. So that means you will be having only $3.5K for expenses.
+1.  Determine your savings goal - To start using the pay-yourself-first budget, you need to decide on how much you want to save. This can be dependent on your future goals, your expenses and your income. Say for example if your monthly income is $5K, you can set a goal of $1.5K i.e. 30% of your income every month. So that means you will be having only $3.5K for expenses.
 
-2. Set up automatic transfers - This is very much needed so that you don't get to spend your money. The money which is intented for saving should be saved for the first day of the month itself. Thus you are saving money before spending it.
+2. Set up automatic transfers - This is very much needed so that you don't get to spend your money. The money which is intended for saving should be saved for the first day of the month itself. Thus you are saving money before spending it.
 
-3.  Track your progress - Tracking your progress is very much needed to know how much your goals have been completed. In this way you will be staying motivated as well as can tweak the goals and make adjustments. 
+3.  Track your progress - Tracking your progress is very much needed to know how much your goals have been completed. In this way, you will be staying motivated as well as can tweak the goals and make adjustments. 
     
 4. Be Flexible - Some months are hard because the expenses can shoot up and thus we have to be flexible and adaptable based on it. So even if you fall short on the savings for a month or so, it is ok. And thus you have to be flexible enough in your budget.
 
-5. Stay Motivated - To be honest, this doen't come under get started. Getting started is easy, but staying motivated is hard. So you have to think about your long-term goals and  stay motivated to see the real results. You have to remind yourself regularly about teh benfit of savings and thus watch your financial goals come true.
+5. Stay Motivated - To be honest, this doesn't come under get started. Getting started is easy, but staying motivated is hard. So you have to think about your long-term goals and stay motivated to see the real results. You have to remind yourself regularly about the benefits of savings and thus watch your financial goals come true.
 
 ## Tips to Make the Pay Yourself First Method Work for You
 
-You have thought about starting the 'Pay Yourself First' budgeting method but you don't know if it will work for you or not. These tipe will help you to make the Pay Yourself First method work for you.
+You have thought about starting the 'Pay Yourself First' budgeting method but you don't know if it will work for you or not. These tips will help you to make the Pay Yourself First method work for you.
 
 1.  Set up automatic transfers - This is very much needed so that you don't get to spend your money and don't forget about saving.
     
@@ -45,7 +45,7 @@ You have thought about starting the 'Pay Yourself First' budgeting method but yo
     
 6.  Reward yourself - Set small rewards for yourself when you reach certain savings milestones.
     
-7.  Have multiple savings goals - Have different savings accounts for different purposes such as an emergency fund, retirement, a vacation etc.
+7.  Have multiple savings goals - Have different savings accounts for different purposes such as an emergency fund, retirement, vacation etc.
     
 8.  Have a clear picture of your financial situation - Understand your income and expenses, and have a clear picture of your current debt situation to plan your savings and expenses better.
     
@@ -55,7 +55,7 @@ You have thought about starting the 'Pay Yourself First' budgeting method but yo
 
 ## Common Mistakes When Using Pay Yourself First
 
-You might have thought of creating the best pay yourself budget and tried to reach your goals as soon as possible. In the process you should also stay away with any common mistakes so that you can reach your specific goals. Below are some of the common mistakes you should not be doing with your budget.
+You might have thought of creating the best pay-yourself budget and tried to reach your goals as soon as possible. In the process, you should also stay away from any common mistakes so that you can reach your specific goals. Below are some of the common mistakes you should not be doing with your budget.
 
 1. Not setting specific savings goals - Without a clear target in mind, it can be easy to lose motivation. So it is always better to set specific savings goals in mind.
     
@@ -65,13 +65,13 @@ You might have thought of creating the best pay yourself budget and tried to rea
     
 4.  Not reviewing and reassessing your savings goals - Your financial situation and priorities may change over time, so it's important to regularly review and adjust your savings goals as needed.
 
-## Things to remeber before starting Pay Yourself First Budgeting
+## Things to remember before starting Pay Yourself First Budgeting
 
-Somtimes new things are overwhelming so it's always better to keep your expectations correct. Below are some of the things to remember before starting the pay yourself budget.
+Sometimes new things are overwhelming so it's always better to keep your expectations correct. Below are some of the things to remember before starting the pay-yourself budget.
 
 1.  It can be difficult to get started - Setting aside money before you pay your bills and other expenses can be challenging, especially if you're already living paycheck to paycheck.
     
-2.  It may require cutting back on expenses - To pay yourself first, you may need to make sacrifices and cut back on expenses in order to free up money for savings.
+2.  It may require cutting back on expenses - To pay yourself first, you may need to make sacrifices and cut back on expenses to free up money for savings.
     
 3.  It may not work for everyone - If you have a high level of debt or other financial obligations, paying yourself first may not be feasible or may not provide the desired results.
     
@@ -87,7 +87,7 @@ The Pay Yourself First budgeting method is compared to other budgeting methods i
 
 2.  Self-Discipline - The Pay Yourself First method helps to build self-discipline as it encourages individuals to set and stick to savings goals.
 
-3.  Proactivity - Unlike other budgeting methods, Pay Yourself First budgeting method encourages individuals to be proactive in saving money, rather than reactive in trying to save what is left over after expenses. 
+3.  Proactivity - Unlike other budgeting methods, the Pay Yourself First budgeting method encourages individuals to be proactive in saving money, rather than reactive in trying to save what is left over after expenses. 
 
 ## FAQ on Pay Yourself First Budgeting
 
@@ -101,7 +101,7 @@ Yes, the Pay Yourself First method can be used in conjunction with other budgeti
 
 #### Can the Pay Yourself First method be used to pay off debt?
 
-Yes, the Pay Yourself First method can be used to pay off debt by setting aside money to make extra payments on outstanding balances.
+Yes, the Pay Yourself First method can be used to pay off the debt by setting aside money to make extra payments on outstanding balances.
 
 #### How can I stay motivated to stick with the Pay Yourself First method?
 
