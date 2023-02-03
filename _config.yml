@@ -72,7 +72,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-news-sitemap
 
 # Front Matter Defaults
 defaults:
