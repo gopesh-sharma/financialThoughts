@@ -6,6 +6,7 @@ tags: ['finance', 'beginner']
 excerpt: 'To get the most out of your money and ensure that you can afford everything, make smart decisions about how to use it.'
 date: December 22, 2022
 author: self
+featuredPost: true
 image:
   path: /images/blog/fundamentals-personal-finance.png
   thumbnail: /images/blog/fundamentals-personal-finance.png
