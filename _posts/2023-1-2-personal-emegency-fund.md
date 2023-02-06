@@ -6,6 +6,7 @@ tags: ['finance', 'beginner', 'emergency fund']
 excerpt: 'The main purpose of having an emergency fund is to provide financial security by creating that safety net which can be used in case of emergencies such as medical emergencies or car repairs.'
 date: January 2, 2023
 author: self
+featuredPost: true
 image:
   path: /images/blog/emergency-fund.jpg
   thumbnail: /images/blog/emergency-fund.jpg
