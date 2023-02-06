@@ -6,6 +6,7 @@ tags: ['finance', 'beginner', 'personal finance']
 excerpt: 'This year, take specific and measurable action to boost your personal finances. Financial resolutions are common among people, like saving more money or spending less but they never work.'
 date: January 9, 2023
 author: self
+featuredPost: true
 image:
   path: /images/blog/real-results.jpg
   thumbnail: /images/blog/real-results.jpg
