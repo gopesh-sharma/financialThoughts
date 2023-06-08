@@ -803,4 +803,25 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+
+
+.site-footer {
+	margin: 2em 0;
+	padding: 2em 0;
+	text-align: center;
+}
+
+.site-footer .social-icons {
+	margin-bottom: 0.5em;
+}
+
+.site-footer .social-icon {
+	display: inline-block;
+	padding: 0 0.25em;
+}
+
+.copyright p {
+  margin: 0;
+  padding: 0;
+}
  

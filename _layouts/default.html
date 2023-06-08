@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{page.title}} | {{site.name}}</title>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
     {% seo %}
 
@@ -30,7 +31,19 @@
 
     {% include tracking-header.html %}
 
+    {%- if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' -%}
+        {%- comment -%}
+        Add Atom feed link if jekyll-feed plugin is enabled
+        {%- endcomment -%}
+        {% include head-feed.html %}
+    {%- endif -%}
 
+    <script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
+    <script type="text/javascript" charset="UTF-8">
+    document.addEventListener('DOMContentLoaded', function () {
+       cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"The Finance Notes"});
+    });
+    </script>
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
@@ -73,23 +86,28 @@
 
 
     <!-- Footer -->
-    <footer class="bg-white border-top p-3 text-muted small">
-        <div class="container">
-        <div class="row align-items-center justify-content-between">
-            <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>Mundana</strong></span>
-                <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
-
-                <!--  Github Repo Star Btn-->
-                <a class="text-dark ml-1" target="_blank" href="https://github.com/wowthemesnet/mundana-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
-
-            </div>
-            <div>
-                Made with <a target="_blank" class="text-dark font-weight-bold" href="https://www.wowthemes.net/mundana-jekyll-theme/"> Mundana Jekyll Theme </a> by <a class="text-dark" target="_blank" href="https://www.wowthemes.net">WowThemes</a>.
-            </div>
+    <footer id="footer" class="site-footer">
+        {%- if site.footer_links -%}
+          <div class="social-icons">
+            {%- for footer_link in site.footer_links -%}
+              {%- if footer_link.url contains "://" -%}
+                {%- assign url = footer_link.url -%}
+              {%- else -%}
+                {%- assign url = footer_link.url | relative_url -%}
+              {%- endif -%}
+              <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fas fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+      
+        <div class="copyright">
+          {% if site.copyright %}
+            {{ site.copyright | markdownify }}
+          {% else %}
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</p>
+          {% endif %}
         </div>
-        </div>
-    </footer>
+      </footer>
 
     {% include tracking-footer.html %}
 
