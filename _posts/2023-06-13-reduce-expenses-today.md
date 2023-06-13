@@ -4,7 +4,7 @@ title: '5 Simple Ways to Reduce Your Expenses Today'
 categories: Basics
 tags: ['beginner', 'expenses']
 excerpt: 'Reducing expenses is very critical now which can help you to lead a stress-free life. Reducing expenses also helps us to save more.'
-date: February 7, 2023
+date: June 13, 2023
 author: self
 image: assets/images/reduce-expenses.png
 ---
