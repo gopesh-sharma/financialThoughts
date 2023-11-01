@@ -3,7 +3,7 @@ layout: post
 title: 'Mastering Your Money: Budgeting and Expense Management'
 categories: Budgeting
 tags: ['budgeting', 'expenses']
-excerpt: 'In this segment, we'll explore a fundamental aspect of personal finance that holds the key to your financial well-being: budgeting and managing your expenses. '
+excerpt: 'In this segment, we will explore a fundamental aspect of personal finance that holds the key to your financial well-being: budgeting and managing your expenses. '
 date: November 01, 2023
 author: self
 image: assets/images/budget-expense-management.jpg
