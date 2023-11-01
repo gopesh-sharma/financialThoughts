@@ -6,7 +6,7 @@ tags: ['beginner', 'investment', 'goals']
 excerpt: 'Let us explore the world of financial goal-setting where we will discuss the power of SMART goal-setting for financial goals.'
 date: November 01, 2023
 author: self
-image: assets/images/budget-expense-management.jpg
+image: assets/images/financial-goals.jpg
 ---
 
 Hello, and welcome to the next post of our financial expedition tailored for professionals who want to improve their financial health. In this segment, we'll explore a fundamental aspect of personal finance that holds the key to your financial well-being: budgeting and managing your expenses. Don't worry; we're here to simplify the process and even introduce you to some handy tools and apps that will make this journey more manageable.
