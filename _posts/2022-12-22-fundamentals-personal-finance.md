@@ -48,7 +48,7 @@ Though personal finance seems easy, people make it complicated. We just have to 
 - Set aside money for emergencies
 - Start saving and invest
 - Eliminate high-interest credit card debt
-- Amass wealth and sustain it by making smart financial decisions.
+- Accumulate Wealth
 
   Happy Investing
   An investment in knowledge pays the best interest." — Benjamin Franklin
