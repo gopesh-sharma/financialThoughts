@@ -4,43 +4,45 @@ title: 'The Fundamentals of Personal Finance'
 categories: Basics
 tags: ['sticky', 'finance', 'beginner']
 excerpt: 'To get the most out of your money and ensure that you can afford everything, make smart decisions about how to use it.'
-date: December 22, 2022
+date: December 04, 2023
 author: self
 featuredPost: true
 image: assets/images/logo.jpg
 ---
 
-You've got your budget, and you've got your savings, this is what everyone else but what else can you do? Well, how about doing some smart financial decisions that will make sure you have enough money for everything and then some? It's easy to get caught up in the day-to-day minutiae of life, but it's important to keep an eye on your finances (which is very much needed now) so that when unexpected expenses come up or opportunities arise, you're always prepared.
+In simple terms, Personal Finance means meeting your personal financial goals. These goals can be anything like a retirement goal, saving for a child's marriage or higher studies, a vacation or anything personal. Personal finance differs between two individuals because the goals between two individuals are different and that's why it is called Personal Finance. We get our salary, we spend based on our monthly expenses and then save some part of it. Along with that, we should also be making some smart financial decisions which will make sure that we have enough money for everything.
+
+It is very easy to get caught up with all the work we do in our day-to-day life, whether at work or spending time with our family. But we should also be keeping an eye on our finances so that we can make our lives better so that we can meet the unexpected expenses. Personal Finance is a term which covers managing your money as well as investing. So let's go through some of the core concepts of Personal Finance.
 
 ### Create a budget
 
-A [budget]({% post_url 2022-12-22-creating-budget %}) is a plan for spending and saving money, this is the must have for everyone. It’s a way to manage your money so that you spend less than you earn, which helps save for retirement, pay down debt and build up an emergency fund. If you don’t have a set budget in place yet, start by creating one now! There are numberous ways you can start budgeting and in following posts we can talk about this more.
+A [budget]({% post_url 2022-12-22-creating-budget %}) is a plan which will make sure that we live within our means and save enough to meet our long-term goals i.e. it is a plan for spending and saving money. Through the budget, we will know what is our net inflow, our expenses and how much we can save for our financial goals. So if you are starting your financial journey then the first thing to do is to create a budget. The easiest and most basic budget is a 50/30/20 budgeting method where you will allocate 50% of your income for living expenses, 30% for your needs and 20% goes to savings for your financial goals.
 
 ### Set aside money for emergencies
 
-You should have a savings account that you can access quickly when an emergency comes up which in simple terms is known as Emergency Fund. If you don't, it will take longer to fix the problem and may cost more in the long run. You should try to save at least 3-6 months' worth of living expenses in your savings account so if something happens, you are ready for it. This could include paying off any debt that has accrued during that time period as well as saving up for new purchases like furniture or appliances (if necessary). It's also important not only to keep track of what money goes where but also when things happen: such as when there was an unexpected medical bill or other expense happened unexpectedly; this is why having an emergency fund helps prevent unnecessary stress on yourself throughout life! If you are a working individual having an emegency fund is very much necessary.
+We might set a budget and work on it to make our financial life better which is a great start but along with that if we do not have any emergency funds then it's a problem. Emergency fund in simple terms is a fund which is readily available to you when you need it. Emergency funds can be a savings account or fixed deposit which can be accessed 24/7. This is very important to have because if an individual doesn't have then it can derail your financial journey anytime whenever an emergency arises. Having at least 3 to 6 months of living expenses as your Emergency Fund is recommended. 
 
 ### Start saving and invest
 
-- Start saving early. The power of compound interest is a powerful thing, and it's one of the best ways to build wealth over time. Though if you have not started yet, then start today. Better late than never.
-- Save more than you spend. Even if you're not rich yet, it's important to save enough money so that you'll have enough funds in the bank or retirement account when times get tough (or even before). That way, if something unexpected happens—like losing your job or health insurance—you'll still be financially stable enough to handle it properly without having to worry about going into debt because all your extra cash has been spent on bills and necessities like food and gas bills first before anything else could possibly happen at this point in time right now here right now :( sorry!
-- Investing doesn't always mean stocks: Investing involves buying different types of investments depending on their risk level; some options might be considered safer than others based on which assets they hold by default when compared against other assets such as bonds which tend towards fixed income products such as certificates issued by government agencies like Treasury Bills (T-Bills), Treasury Notes (T-Notes) etcetera...
+So now we have a Budget and we have an Emergency Fund and we are all set to start our financial journey. The next is to save and invest. Remember in the Budget section we said that if you are following the 50/30/20 rule then 20% goes into investing. We should start investing as soon as possible because we can benefit from compound interest which is one of the best ways to build wealth over time. So if you have not started now, then you should start today.
+
+Starting with 20% of your income as an investment is a good start but if we have to be financially stable we have to increase our investment. To increase investment, we have to reduce expenses gradually. I am saying gradually because we cannot reduce the expenses all at once. Like when you have a budget defined, every year you can tweak your budget so that your expenses are set to reduce by 5% and your investment is set to increase by 5%. If I talk about investment, it doesn't mean buying stocks, there are other types of investments depending on our risk level. 
+
+If you are looking for less riskier assets then go for Mutual Funds, Government Bonds, Fixed Deposits, REITs etc.
 
 ### Eliminate high-interest credit card debt
 
-- Eliminate high-interest credit card debt.
-- Pay off your credit cards with a debt consolidation loan.
-- Consider a balance transfer to lower interest rates and avoid paying more than you have to on loans or credit cards.
-- Consider taking out a personal loan from the bank if you need money, but don't want to be responsible for repaying it until after graduation (which might be several years away). This way, you won't have great access to cash while in school—but if things go wrong financially during those years, there will be no hard feelings from the bank!
+Debt is an amount of money which you will borrow and have to pay back later. Now for the amount of money you will borrow, you also have to pay interest on it. The interest will depend on where you have taken the loan. The credit card has the highest interest where you have to pay around 30 to 40% interest, whereas with a personal loan, you have to pay around 11% to 16%.
 
-### Amass wealth and sustain it by making smart financial decisions.
+Our goal should be to eliminate high-interest debt i.e. we have to eliminate credit card debt. If you cannot eliminate credit card debt then you can consider taking a lower interest rate loan like a personal loan or a loan from family and friends so that your interest payment gets reduced and you will pay off the loan faster.
 
-As you begin to accumulate wealth and sustain it by making smart financial decisions, here are some of the most important things to remember:
+### Accumulate wealth
 
-- Save. Saving money is essential to building up your nest egg, but it's also important that you don't spend too much—or too little! There are plenty of ways to save money on a regular basis, whether it's through setting up automatic withdrawals from your bank account or simply putting away some cash each month.
-- Invest wisely. Once you have a steady stream of income coming in each month (and maybe even more than one source), investing can be done in many different ways: buying stocks or bonds; opening an IRA; placing bets on which companies will do well in the future; whatever works best for YOU! The key thing here is not just having an opinion about what stocks are worth investing in but checking out how much risk there might be with each choice before making any real decision.
+You have created the budget, saved for emergencies, started saving and then eliminated high-interest debt and now it's time to accumulate wealth. Also after you have accumulated wealth, you have to sustain it by making smart financial decisions. First and foremost, you have to be regular in saving because that is essential for building your nest egg. The best way to automate your savings is that they should happen irrespective of whether you remember it or not.
 
-If you want to get started on your path to becoming a more financially aware person, then start with these five ways:
+Once you start saving, you have to invest wisely. You have to understand your risk appetite. You can invest in many different ways like stocks, mutual funds, bonds etc. 
+
+Though personal finance seems easy, people make it complicated. We just have to keep it simple and stick to the basics, in this way, you will master your personal finance. So if you want to start your personal financial journey, start by doing these 5 steps.
 
 - Create a budget
 - Set aside money for emergencies
@@ -48,4 +50,5 @@ If you want to get started on your path to becoming a more financially aware per
 - Eliminate high-interest credit card debt
 - Amass wealth and sustain it by making smart financial decisions.
 
-Let's not forget the importance of having fun along the way! The more of that you have, the better.:)
+  Happy Investing
+  An investment in knowledge pays the best interest." — Benjamin Franklin
