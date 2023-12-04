@@ -3,7 +3,7 @@ layout: post
 title: 'The Fundamentals of Personal Finance'
 categories: Basics
 tags: ['sticky', 'finance', 'beginner']
-excerpt: 'To get the most out of your money and ensure that you can afford everything, make smart decisions about how to use it.'
+excerpt: 'Though personal finance seems easy, people make it complicated. We just have to keep it simple and stick to the basics, in this way, you will master your finances.'
 date: December 04, 2023
 author: self
 featuredPost: true
@@ -42,7 +42,7 @@ You have created the budget, saved for emergencies, started saving and then elim
 
 Once you start saving, you have to invest wisely. You have to understand your risk appetite. You can invest in many different ways like stocks, mutual funds, bonds etc. 
 
-Though personal finance seems easy, people make it complicated. We just have to keep it simple and stick to the basics, in this way, you will master your personal finance. So if you want to start your personal financial journey, start by doing these 5 steps.
+Though personal finance seems easy, people make it complicated. We just have to keep it simple and stick to the basics, in this way, you will master your personal finance. So if you want to start your financial journey, start by doing these 5 steps.
 
 - Create a budget
 - Set aside money for emergencies
