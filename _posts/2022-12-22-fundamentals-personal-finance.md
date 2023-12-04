@@ -52,4 +52,4 @@ Though personal finance seems easy, people make it complicated. We just have to 
 
   Happy Investing
   
-  An investment in knowledge pays the best interest." — Benjamin Franklin
+  **An investment in knowledge pays the best interest." — Benjamin Franklin**
