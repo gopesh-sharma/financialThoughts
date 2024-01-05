@@ -4,7 +4,7 @@ title: 'Personal Finance Plan for 2024 within 15 minutes'
 categories: Basics
 tags: ['sticky', 'finance', 'beginner']
 excerpt: 'Though personal finance seems easy, people make it complicated. We just have to keep it simple and stick to the basics, in this way, you will master your finances.'
-date: January 05, 2023
+date: January 05, 2024
 author: self
 featuredPost: true
 image: assets/images/personal-finance-plan.png
