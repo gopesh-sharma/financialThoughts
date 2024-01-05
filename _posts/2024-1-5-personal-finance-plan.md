@@ -3,7 +3,7 @@ layout: post
 title: 'Personal Finance Plan for 2024 within 15 minutes'
 categories: Basics
 tags: ['sticky', 'finance', 'beginner']
-excerpt: 'Personal Finance is about achieving your financial objectives. We will cover mainly Risk and return, Assets to Invest in, Creating a Budget, Protecting Yourself and Growing your money.'
+excerpt: 'Unlock financial success in 2024 with our comprehensive Personal Finance Plan. Discover expert strategies, tips, and goals tailored for a prosperous future.'
 date: January 05, 2024
 author: self
 featuredPost: true
@@ -115,4 +115,4 @@ We have seen different types of asset classes and now to grow your money you hav
 The simple formula is to subtract your age from 100 and the amount you get is the percentage you should invest in equity. Say, your age is 30, then 100 - 30 i.e. 70 per cent should be invested in equity. And in that 70 per cent, you can invest in Large Cap, Medium Cap and Small Cap equity funds. Along with that if you want to take some extra risk, then you can invest some part of that equity percentage in Crypto. The rest 30% should be invested in debt funds which include Debt Mutual Funds, Corporate Bonds, EPF, PPF, NPS, Gold etc.
 In this way, you will be getting a medium-risk portfolio and will give a balanced return. When you continue investing in this portfolio for a longer time, you will be able to grow your money. Now, creating wealth is a long-term game, the more time given to the money to grow, the more it grows. This is what the compounding effect is. The rule of 72 says that the return you are getting should be divided by 72 to know how much time it takes to double your money. For example, if the return is 12% then your money will be doubled in 6 years whereas if the return is 8% your money will double in 9 years. And when we continue investing for long terms, our money becomes 2x, 4x, 8x and so on.
 
-So if you have not already made your Personal Finance Plan, then there's never a better time to start than now. Start now and you will see how your relationship with money becomes better.
+So if you have not already made your Financial goals for 2024, then there's never a better time to start than now. Start now since there are numerous investment opportunities in 2024 and you will see how your relationship with money becomes better in this year.
