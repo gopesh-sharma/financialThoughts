@@ -3,7 +3,7 @@ layout: post
 title: 'Personal Finance Plan for 2024 within 15 minutes'
 categories: Basics
 tags: ['sticky', 'finance', 'beginner']
-excerpt: 'Though personal finance seems easy, people make it complicated. We just have to keep it simple and stick to the basics, in this way, you will master your finances.'
+excerpt: 'Personal Finance is about achieving your financial objectives. We will cover mainly Risk and return, Assets to Invest in, Creating a Budget, Protecting Yourself and Growing your money.'
 date: January 05, 2024
 author: self
 featuredPost: true
