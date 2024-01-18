@@ -9,11 +9,11 @@ author: self
 image: assets/images/managing-budget.png
 ---
 
-No matter how much money you make, it's always important to budget carefully and manage your finances wisely. As we all know that most important fundamentals of personal finance is to have a Budget. But for many people, budgeting can seem like a daunting task. [Making a budget]({% post_url 2022-12-22-creating-budget %}) is one thing but sticking to it is another. Since creating the budget is like the first step towards your financial journey, managing a budget remain with you throughout your financial journey. Along with that if you manage the budget well, that will decide how well you are progressing in your financial journey. In this guide, we’ll walk through the steps of managing a budget so that you can understand how it works and see if it might work for you too!
+No matter, how much money do you make, it's always important to make a careful budget and manage your finances well. As we all know the most important basics of personal finance are to have a Budget. However, budgeting can be something that looks quite intimidating to most individuals. To create a [budget]({% post_url 2022-12-22-creating-budget %}) is one thing but to maintain it is yet another. Since creating the budget is somewhat like taking the first step towards your financial journey, managing the budget sticks with you throughout your financial journey. Along with that if you manage the budget well, that will decide how well you are proceeding in your financial journey. In this guide, therefore, we will be looking at the steps of managing a budget so that you may know how exactly it works and see if it might work for you too!
 
 #### It's Important to stick to Budget
 
-You might have number of goals or other financial commitments which you want to fulfill, so it all come down or basically starts with a budget. This budget will not do any good to your financial journey. Managing and maintaining the budget is very much needed because then only you will be in charge of the money.
+You may have a number of the goal or other financial commitment which you want to fulfill so it all comes down or basically starts with a budget. This budget will not do better for your journey towards the fulfillment of your financial commitment. Managing and maintaining the budget is very much needed because then only you will be in charge of the money.
 
 In order to maintain a budget, you’ll need to do five things.
 
