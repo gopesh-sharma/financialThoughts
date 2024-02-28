@@ -9,7 +9,7 @@ author: self
 image: assets/images/managing-budget.png
 ---
 
-It's not about how much money we make, it's always about how efficiently we can manage that money. When we talk about managing money, it means how to carefully create a budget that works to manage your finances as well as manage that budget so that your personal finance journey continues for a long way. I know budgeting seems to be a daunting task at first but trust me when you start making it a habit, it works like a charm and it becomes quite easy. Creating a budget is like the first step whereas managing a budget sticks with you throughout your financial journey and thus managing it well improves your financial journey. So let's go through some of the effective budgeting tips so that you can start efficient budget management on your own.
+It's not about how much money we make, it's always about how efficiently we can manage that money. When we talk about managing money, it means how to carefully [create a budget]({% post_url 2022-12-22-creating-budget.md %}) that works to manage your finances as well as manage that budget so that your personal finance journey continues for a long way. I know budgeting seems to be a daunting task at first but trust me when you start making it a habit, it works like a charm and it becomes quite easy. Creating a budget is like the first step whereas managing a budget sticks with you throughout your financial journey and thus managing it well improves your financial journey. So let's go through some of the effective budgeting tips so that you can start efficient budget management on your own.
 
 ### It's Important to stick to Budget
 
