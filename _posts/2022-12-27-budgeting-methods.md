@@ -53,10 +53,10 @@ The percentage you pay yourself depends on your financial situation, it can be 5
 #### What are the different budgeting methods available?
 
 The different budgeting techniques are:
-Envelope budgeting
-50/30/20 budgeting
-Pay yourself first
-Zero-based budgeting
+- Envelope budgeting
+- 50/30/20 budgeting
+- Pay yourself first
+- Zero-based budgeting
 
 #### How do I choose the right budgeting method for my financial situation?
 
@@ -74,9 +74,9 @@ The Zero-based budgeting means that after you subtract your expenses from your i
 
 The budgeting apps which we recommend are 
 
-YNAB, for zero-based budgeting
-Goodbudget, for envelope budgeting
-EveryDollar, for zero-based budgeting
-PocketGuard, for paying off debt first
+- YNAB, for zero-based budgeting
+- Goodbudget, for envelope budgeting
+- EveryDollar, for zero-based budgeting
+- PocketGuard, for paying off debt first
 
 It's always better to start first with any budgeting method and customise it as per your situation. So, which budgeting method should you use to achieve your financial success? It depends on your specific goals and circumstances. But, no matter which method you choose, make sure to stay organized, be consistent, and be patient. With time and effort, you'll be on your way to financial success!
