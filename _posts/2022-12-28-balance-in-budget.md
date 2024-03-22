@@ -62,12 +62,13 @@ Now the problem is, that things don't go as planned but we have to continue doin
 ##### How can I create a balanced budget?
 
 To create a balanced budget you have to do the following steps:
-Identifying Needs vs. Wants
-Tracking Expenses and Setting Budgets
-Taking Advantage of Automation
-Cut Back on Subscriptions and Unnecessary Purchases
-Play the Long Game
-Be Flexible but Stretch Yourself
+
+- Identifying Needs vs. Wants
+- Tracking Expenses and Setting Budgets
+- Taking Advantage of Automation
+- Cut Back on Subscriptions and Unnecessary Purchases
+- Play the Long Game
+- Be Flexible but Stretch Yourself
 
 ##### What are some tips for maintaining balance in my budget?
 
